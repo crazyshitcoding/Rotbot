@@ -9,7 +9,7 @@ include('functions.php'); // Include de mon fichier global, bon là, ça ne sert
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel="stylesheet" href="styles.css">
     <script src="js.js" charset="utf-8"></script>
-    <title>Le Rotbot</title>
+    <title>Le Rotbot 2024</title>
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({
